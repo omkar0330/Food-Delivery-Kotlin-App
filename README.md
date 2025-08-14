@@ -19,12 +19,7 @@ This repository showcases a premium food delivery app UI built using **Kotlin** 
 - **MVVM Architecture**
 - **Firebase (optional for backend integration)**
 - **Material3 Design**
-
-## 📸 Screenshots
-
-> ![Burger UI](link-to-your-screenshot.png)  
-> *Classic Taste Burger – Bestseller with Add-ons and Nutrition Facts*
-
+- 
 ## 🚀 Getting Started
 
 1. Clone the repository:
